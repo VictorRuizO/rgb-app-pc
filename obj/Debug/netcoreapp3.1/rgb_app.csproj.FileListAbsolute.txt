@@ -1,0 +1,13 @@
+C:\Users\Victor\Documents\rgb_app\obj\Debug\netcoreapp3.1\rgb_app.csprojAssemblyReference.cache
+C:\Users\Victor\Documents\rgb_app\obj\Debug\netcoreapp3.1\rgb_app.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\rgb_app\obj\Debug\netcoreapp3.1\rgb_app.AssemblyInfo.cs
+C:\Users\Victor\Documents\rgb_app\obj\Debug\netcoreapp3.1\rgb_app.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\rgb_app\bin\Debug\netcoreapp3.1\rgb_app.exe
+C:\Users\Victor\Documents\rgb_app\bin\Debug\netcoreapp3.1\rgb_app.deps.json
+C:\Users\Victor\Documents\rgb_app\bin\Debug\netcoreapp3.1\rgb_app.runtimeconfig.json
+C:\Users\Victor\Documents\rgb_app\bin\Debug\netcoreapp3.1\rgb_app.runtimeconfig.dev.json
+C:\Users\Victor\Documents\rgb_app\bin\Debug\netcoreapp3.1\rgb_app.dll
+C:\Users\Victor\Documents\rgb_app\bin\Debug\netcoreapp3.1\rgb_app.pdb
+C:\Users\Victor\Documents\rgb_app\obj\Debug\netcoreapp3.1\rgb_app.dll
+C:\Users\Victor\Documents\rgb_app\obj\Debug\netcoreapp3.1\rgb_app.pdb
+C:\Users\Victor\Documents\rgb_app\obj\Debug\netcoreapp3.1\rgb_app.genruntimeconfig.cache
